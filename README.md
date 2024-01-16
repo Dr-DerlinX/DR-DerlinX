@@ -1,7 +1,7 @@
 
 **Dr-DerlinX/DR-DerlinX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# 💫 About Me:
+# 👋​ About Me:
 </Hi I'm Derlin , estudiante apasionado de informática<br> y programación, oriundo de República Dominicana. <br>Mi dedicación se centra en explorar las complejidades <br>del mundo digital y desarrollar habilidades innovadoras <br>en el campo de la tecnología. !>
 
 

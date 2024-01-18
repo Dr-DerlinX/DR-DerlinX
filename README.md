@@ -15,7 +15,7 @@ derlin-v-peguero)
 ![](https://github-readme-stats.vercel.app/api?username=Dr-DerlinX&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dr-DerlinX&theme=nord&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-DerlinX&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://app.aluracursos.com/degree/certificate/52efd9ea-98fe-44ee-9fc5-4bdcaeff1716)
 ---
 [![](https://visitcount.itsvg.in/api?id=Dr-DerlinX&icon=2&color=0)](https://visitcount.itsvg.in)
 

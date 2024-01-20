@@ -58,11 +58,17 @@ Hi I'm Derlin , estudiante apasionado de informática<br> y programación, oriun
  <h1>🚀 Projects:</h1>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dr-DerlinX&repo=Dr-DerlinX.github.io&show_owner=true&description=Portafolo%20Wbe%20con%20HTML5%20y%20CSS3%20readme&theme=dark&langs_count=3)](https://github.com/Dr-DerlinX/Dr-DerlinX.github.io)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dr-DerlinX&repo=Dr-DerlinX.github.io&show_owner=true&description=Portafolo%20Wbe%20con%20HTML5%20y%20CSS3%20readme&theme=dark&langs_count=3)](https://github.com/Dr-DerlinX/Dr-DerlinX.github.io)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dr-DerlinX&repo=Dr-DerlinX.github.io&show_owner=true&description=Portafolo%20Wbe%20con%20HTML5%20y%20CSS3%20readme&theme=dark&langs_count=3)](https://github.com/Dr-DerlinX/Dr-DerlinX.github.io)
 </div> 
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Dr-DerlinX}/count.svg" /></p> 
+<br>
+</div>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dr-DerlinX&show_icons=true&theme=radical)-->
 ---
 [![](https://visitcount.itsvg.in/api?id=Dr-DerlinX&icon=2&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>

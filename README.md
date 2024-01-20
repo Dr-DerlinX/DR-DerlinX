@@ -44,7 +44,9 @@ Hi I'm Derlin , estudiante apasionado de informática<br> y programación, oriun
  [![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)](https://www.docker.com/)
 </div> 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dr-DerlinX&repo=DR-DerlinX&show_owner=true&description=Este%20es%20un%20repositorio%20para%20mi%20readme&theme=dark&show_language=true)](https://github.com/your-username/your-repo-name)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dr-DerlinX&repo=Dr-DerlinX.github.io&show_owner=true&description=Portafolo%20Wbe%20con%20HTML5%20y%20CSS3%20readme&theme=dark&langs_count=3)](https://github.com/Dr-DerlinX/Dr-DerlinX.github.io)
+
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dr-DerlinX&show_icons=true&theme=radical)-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dr-DerlinX&icon=2&color=0)](https://visitcount.itsvg.in)

@@ -44,6 +44,10 @@ Hi I'm Derlin , estudiante apasionado de informática<br> y programación, oriun
  [![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)](https://www.docker.com/)
 </div> 
 
+## Certificados
+
+[Certificado de Java Programming](https://app.aluracursos.com/certificate/fda371df-0729-417f-b630-577aed6c0a4f)
+![Java Certificate](https://media.licdn.com/dms/image/D4E22AQFLb5x1Xq9Cng/feedshare-shrink_800/0/1705543418317?e=1708560000&v=beta&t=hyFP41KufLjbmDULRhcHQA3e5jgZMlwbT3EwquDh8_c)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dr-DerlinX&icon=2&color=0)](https://visitcount.itsvg.in)

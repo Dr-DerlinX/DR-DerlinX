@@ -10,10 +10,7 @@
 <br></br>
 
 <div align="center">  
-  
-<a href="https://www.linkedin.com/in/derlin-v-peguero/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+ <a href="https://www.linkedin.com/in/derlin-v-peguero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>  
 </div> 
 
 <br></br>

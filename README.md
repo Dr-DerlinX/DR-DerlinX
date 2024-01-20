@@ -11,7 +11,7 @@
 
 <div align="center">  
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&target= "_blank")](https://www.linkedin.com/in/derlin-v-peguero/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derlin-v-peguero/)
 </div> 
 
 <br></br>

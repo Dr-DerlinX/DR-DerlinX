@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=3894F7&background=2DFF6200&center=verdadero&vCenter=verdadero&repeat=verdadero&random=FALSO&width=435&lines=+Hi%2C+I'm+Derlin.;+backend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Derlin+R.+Peguero;I'm+23+years+old;I+am+from+Santo+Domingo,+RD;I+study+Informatica+and+Prgramacion;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DR-DerlinX&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
@@ -44,10 +44,7 @@ Hi I'm Derlin , estudiante apasionado de informática<br> y programación, oriun
  [![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)](https://www.docker.com/)
 </div> 
 
-## Certificados
 
-[Certificado de Java Programming](https://app.aluracursos.com/certificate/fda371df-0729-417f-b630-577aed6c0a4f)
-![Java Certificate](https://media.licdn.com/dms/image/D4E22AQFLb5x1Xq9Cng/feedshare-shrink_800/0/1705543418317?e=1708560000&v=beta&t=hyFP41KufLjbmDULRhcHQA3e5jgZMlwbT3EwquDh8_c)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dr-DerlinX&icon=2&color=0)](https://visitcount.itsvg.in)

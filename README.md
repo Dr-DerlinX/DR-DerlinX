@@ -9,7 +9,7 @@
 
 <div align="center">  
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Derlin+R.-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/derlin-v-peguero/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Derlin+R.-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derlin-v-peguero/)
 </div> 
 
 <div align="center">  

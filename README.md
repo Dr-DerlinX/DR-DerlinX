@@ -7,10 +7,14 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DR-DerlinX&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+<br></br>
+
 <div align="center">  
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derlin-v-peguero/)
 </div> 
+
+<br></br>
 
 <div align="center">  
  <h1>👋​ About Me:</h1>
@@ -19,6 +23,8 @@
 <div align="center">  
 Hi I'm Derlin , estudiante apasionado de informática<br> y programación, oriundo de República Dominicana. <br>Mi dedicación se centra en explorar las complejidades <br>del mundo digital y desarrollar habilidades innovadoras <br>en el campo de la tecnología.
 </div> 
+
+<br></br>
 
 <div align="center">  
  <h2>💻 Preprogramming languages:</h2>
@@ -33,6 +39,8 @@ Hi I'm Derlin , estudiante apasionado de informática<br> y programación, oriun
 [![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring)](https://spring.io/)
 </div> 
 
+<br></br>
+
 <div align="center">  
  <h2>💻 Tool:</h2>
 </div> 
@@ -42,6 +50,12 @@ Hi I'm Derlin , estudiante apasionado de informática<br> y programación, oriun
  [![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-black?style=for-the-badge&logo=github)](https://github.com/)
  [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-blue?style=for-the-badge&logo=powershell)](https://aka.ms/terminal)
  [![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)](https://www.docker.com/)
+</div> 
+
+<br></br>
+
+<div align="center">  
+ <h1>🚀 Projects:</h1>
 </div> 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dr-DerlinX&repo=Dr-DerlinX.github.io&show_owner=true&description=Portafolo%20Wbe%20con%20HTML5%20y%20CSS3%20readme&theme=dark&langs_count=3)](https://github.com/Dr-DerlinX/Dr-DerlinX.github.io)

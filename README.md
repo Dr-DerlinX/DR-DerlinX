@@ -35,7 +35,7 @@ Hi I'm Derlin , estudiante apasionado de informática<br> y programación, oriun
 [![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)](https://www.java.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-blue?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-purple?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring)](https://spring.io/)
+<!--[![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring)](https://spring.io/)-->
 </div> 
 
 <br></br>
@@ -48,7 +48,7 @@ Hi I'm Derlin , estudiante apasionado de informática<br> y programación, oriun
   
  [![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-black?style=for-the-badge&logo=github)](https://github.com/)
  [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-blue?style=for-the-badge&logo=powershell)](https://aka.ms/terminal)
- [![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)](https://www.docker.com/)
+ <!--[![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)](https://www.docker.com/)-->
 </div> 
 
 <br></br>

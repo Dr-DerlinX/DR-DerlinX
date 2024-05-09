@@ -73,6 +73,6 @@ Hi I'm Derlin , estudiante apasionado de informática<br> y programación, oriun
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dr-DerlinX&show_icons=true&theme=radical)-->
 ---
 [![](https://visitcount.itsvg.in/api?id=Dr-DerlinX&icon=2&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in )
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>

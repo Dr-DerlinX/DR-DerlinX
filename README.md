@@ -56,11 +56,11 @@ Hi I'm Derlin , estudiante apasionado de informática<br> y programación, oriun
 <div align="center">  
  <h1>🚀 Projects:</h1>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dr-DerlinX&repo=Dr-DerlinX.github.io&show_owner=true&description=Portafolo%20Wbe%20con%20HTML5%20y%20CSS3%20readme&theme=dark&langs_count=3)](https://github.com/Dr-DerlinX/Dr-DerlinX.github.io)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dr-DerlinX&repo=Dr-DerlinX.github.io&show_owner=true&description=Portafolo%20Wbe%20con%20HTML5%20y%20CSS3%20readme&theme=dark&langs_count=3)](https://github.com/Dr-DerlinX/Dr-DerlinX.github.io)-->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dr-DerlinX&repo=Encriptador-de-Texto&show_owner=true&description=Portafolo%20Wbe%20con%20HTML5%20y%20CSS3%20readme&theme=dark&langs_count=3)](https://github.com/Dr-DerlinX/Encriptador-de-Texto.git)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dr-DerlinX&repo=cifradorDeTexto&show_owner=true&description=Portafolo%20Wbe%20con%20HTML5%20y%20CSS3%20readme&theme=dark&langs_count=3)](https://github.com/Dr-DerlinX/cifradorDeTexto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dr-DerlinX&repo=api_StarWars&show_owner=true&description=Portafolo%20Wbe%20con%20HTML5%20y%20CSS3%20readme&theme=dark&langs_count=3)](https://github.com/Dr-DerlinX/api_StarWars)
 </div> 
 </div> 
 

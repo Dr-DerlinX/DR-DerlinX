@@ -33,8 +33,8 @@ Hi I'm Derlin , estudiante apasionado de informática<br> y programación, oriun
 <div align="center">  
   
 [![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)](https://www.java.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-blue?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS3](https://img.shields.io/badge/CSS3-purple?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SPRING BOOT](https://img.shields.io/badge/SPRING-lightgreen?style=for-the-badge&logo=spring)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![POSTGRES](https://img.shields.io/badge/POSTGRES-lightblue?style=for-the-badge&logo=postgresql)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 <!--[![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring)](https://spring.io/)-->
 </div> 
 
@@ -47,8 +47,9 @@ Hi I'm Derlin , estudiante apasionado de informática<br> y programación, oriun
 <div align="center">  
   
  [![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-black?style=for-the-badge&logo=github)](https://github.com/)
- [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-blue?style=for-the-badge&logo=powershell)](https://aka.ms/terminal)
- <!--[![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)](https://www.docker.com/)-->
+ [![Linux](https://img.shields.io/badge/Linux-blue?style=for-the-badge&logo=powershell)](https://aka.ms/terminal)
+ [![Docker](https://img.shields.io/badge/Docker-lightblue?style=for-the-badge&logo=docker)](https://www.docker.com/)
+ [![PostMan](https://img.shields.io/badge/PostMan-orange?style=for-the-badge&logo=postman)](https://postman.com/)
 </div> 
 
 <br></br>
@@ -58,7 +59,7 @@ Hi I'm Derlin , estudiante apasionado de informática<br> y programación, oriun
   
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dr-DerlinX&repo=Dr-DerlinX.github.io&show_owner=true&description=Portafolo%20Wbe%20con%20HTML5%20y%20CSS3%20readme&theme=dark&langs_count=3)](https://github.com/Dr-DerlinX/Dr-DerlinX.github.io)-->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dr-DerlinX&repo=Encriptador-de-Texto&show_owner=true&description=Portafolo%20Wbe%20con%20HTML5%20y%20CSS3%20readme&theme=dark&langs_count=3)](https://github.com/Dr-DerlinX/Encriptador-de-Texto.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dr-DerlinX&repo=Backend_ToDoList&show_owner=true&description=Portafolo%20Wbe%20con%20HTML5%20y%20CSS3%20readme&theme=dark&langs_count=3)](https://github.com/Dr-DerlinX/Backend_ToDoList.git)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dr-DerlinX&repo=api_StarWars&show_owner=true&description=Portafolo%20Wbe%20con%20HTML5%20y%20CSS3%20readme&theme=dark&langs_count=3)](https://github.com/Dr-DerlinX/api_StarWars)
 </div> 
